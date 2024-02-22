@@ -12,3 +12,10 @@ The validation of form input fields is achieved using pure JavaScript, with the 
 Additionally, the code allows for setting custom validations according to specific requirements.
 
 The repository provides a comprehensive demonstration of front-end form validation techniques using JavaScript, enhancing user experience and ensuring data integrity.
+
+# Snips:
+![Sign in Page](https://github.com/shahbaz900/Task1Assignment2-HTML-Form-Validation/assets/118073086/a746a937-57b5-4986-a629-bbc40dd60e14)
+
+![SIgn Up Page](https://github.com/shahbaz900/Task1Assignment2-HTML-Form-Validation/assets/118073086/a2b90777-0c4d-4fc0-834f-9326c1e23f20)
+
+
