@@ -17,8 +17,6 @@ The repository provides a comprehensive demonstration of front-end form validati
 # Sign in Page
 ![Sign in Page](https://github.com/shahbaz900/Task1Assignment2-HTML-Form-Validation/assets/118073086/a746a937-57b5-4986-a629-bbc40dd60e14)
 
-# Sign Up Page
-![Sign Up Page](https://github.com/shahbaz900/Task1Assignment2-HTML-Form-Validation/assets/118073086/a2b90777-0c4d-4fc0-834f-9326c1e23f20)
 
 # In case of not entering name
 ![In case of not entering name](https://github.com/shahbaz900/Task1Assignment2-HTML-Form-Validation/assets/118073086/f54c7188-967e-45e5-b086-0431255dd7da)
@@ -28,6 +26,9 @@ The repository provides a comprehensive demonstration of front-end form validati
 
 # If all conditions passed
 ![If all conditions passed](https://github.com/shahbaz900/Task1Assignment2-HTML-Form-Validation/assets/118073086/2ac3a686-1dca-4d19-a7de-bf549764d82f)
+# Sign Up Page
+![Sign Up Page](https://github.com/shahbaz900/Task1Assignment2-HTML-Form-Validation/assets/118073086/a2b90777-0c4d-4fc0-834f-9326c1e23f20)
+
 
 # Password don't match
 ![Password don't match](https://github.com/shahbaz900/Task1Assignment2-HTML-Form-Validation/assets/118073086/39597d7e-610d-426b-bd3d-2a655f42e399)
